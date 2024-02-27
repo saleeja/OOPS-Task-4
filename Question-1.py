@@ -41,3 +41,9 @@ for entry in history:
     print(f"Input: {entry['input']}, Result: {entry['result']}")
 
 
+#output
+"""Sum of the elements in the first list: 15
+Sum of the elements in the second list: 100
+History of calculations:
+Input: [1, 2, 3, 4, 5], Result: 15
+Input: [10, 20, 30, 40], Result: 100"""

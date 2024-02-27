@@ -53,3 +53,11 @@ try:
         writer.write(text_to_write)
 except Exception as e:
     print(f"An exception occurred: {e}")
+
+
+# output
+"""
+Enter the text to write to the file: hello world!
+Text has been written successfully."""
+
+#if entered bug word
