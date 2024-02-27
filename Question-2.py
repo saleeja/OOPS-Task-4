@@ -61,3 +61,8 @@ Enter the text to write to the file: hello world!
 Text has been written successfully."""
 
 #if entered bug word
+"""
+Enter the text to write to the file: bug
+An exception occurred or the entered text contains the word 'bug'.
+Deleting the file................
+File deleted."""
